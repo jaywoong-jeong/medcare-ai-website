@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#1e40af"/>
+  
+  <!-- Medical cross -->
+  <rect x="14" y="8" width="4" height="16" fill="white"/>
+  <rect x="8" y="14" width="16" height="4" fill="white"/>
+  
+  <!-- AI circuit pattern -->
+  <circle cx="24" cy="8" r="2" fill="#3b82f6"/>
+  <circle cx="8" cy="24" r="2" fill="#3b82f6"/>
+  <path d="M22 6L26 10M6 22L10 26" stroke="#3b82f6" stroke-width="1" stroke-linecap="round"/>
+</svg>
